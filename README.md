@@ -1,2 +1,1 @@
 # HosannaMinistries 
-Hosanna
