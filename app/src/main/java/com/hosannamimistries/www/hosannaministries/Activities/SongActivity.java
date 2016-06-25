@@ -1,4 +1,4 @@
-package com.hosannamimistries.www.hosannaministries.Activities;
+package com.hosannamimistries.www.hosannaministries.activities;
 
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;

@@ -1,4 +1,4 @@
-package com.hosannamimistries.www.hosannaministries;
+package com.hosannamimistries.www.hosannaministries.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,7 +14,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.hosannamimistries.www.hosannaministries.Activities.SongActivity;
+import com.hosannamimistries.www.hosannaministries.R;
+import com.hosannamimistries.www.hosannaministries.interfaces.AppCommunicator;
 
 public class Home extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

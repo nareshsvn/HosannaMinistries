@@ -1,4 +1,4 @@
-package com.hosannamimistries.www.hosannaministries.Songs;
+package com.hosannamimistries.www.hosannaministries.songs;
 
 import java.util.ArrayList;
 

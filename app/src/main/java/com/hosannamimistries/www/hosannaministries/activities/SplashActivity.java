@@ -1,10 +1,12 @@
-package com.hosannamimistries.www.hosannaministries;
+package com.hosannamimistries.www.hosannaministries.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-public class Splash extends AppCompatActivity {
+import com.hosannamimistries.www.hosannaministries.R;
+
+public class SplashActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,7 +19,7 @@ public class Splash extends AppCompatActivity {
                 }catch(InterruptedException e){
                     e.printStackTrace();
                 }finally{
-                    Intent intent = new Intent(Splash.this,Home.class);
+                    Intent intent = new Intent(SplashActivity.this,Home.class);
                     startActivity(intent);
                     finish();
                 }

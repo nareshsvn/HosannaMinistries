@@ -1,4 +1,4 @@
-package com.hosannamimistries.www.hosannaministries.Adapters;
+package com.hosannamimistries.www.hosannaministries.adapters.songs;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * Created by root on 3/1/16.
  */
-public class AlbumIndexAdapter extends RecyclerView.Adapter<AlbumIndexAdapter.ViewHolder> {
+public class TitleIndexAdapter extends RecyclerView.Adapter<TitleIndexAdapter.ViewHolder> {
 
 
 
@@ -47,7 +47,7 @@ public class AlbumIndexAdapter extends RecyclerView.Adapter<AlbumIndexAdapter.Vi
     }
 
     // Provide a suitable constructor (depends on the kind of dataset)
-    public AlbumIndexAdapter(Context ctx) {
+    public TitleIndexAdapter(Context ctx) {
 
 
 

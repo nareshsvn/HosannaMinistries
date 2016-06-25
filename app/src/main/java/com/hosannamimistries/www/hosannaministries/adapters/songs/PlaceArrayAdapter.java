@@ -1,4 +1,4 @@
-package com.hosannamimistries.www.hosannaministries.Adapters;
+package com.hosannamimistries.www.hosannaministries.adapters.songs;
 
 import android.content.Context;
 import android.util.Log;
